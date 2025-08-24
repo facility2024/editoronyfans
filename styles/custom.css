@@ -1,0 +1,22 @@
+
+/* Estilos personalizados para Nia Cruz 🖤 Latina Cutie */
+:root {
+  --primary-color: #06c492;
+  --secondary-color: #028524;
+  --text-color: #ffffff;
+}
+
+.custom-gradient {
+  background: linear-gradient(135deg, var(--primary-color), var(--secondary-color));
+}
+
+.model-name {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+}
+
+/* Responsividade mobile */
+@media (max-width: 768px) {
+  .container {
+    padding: 1rem;
+  }
+}

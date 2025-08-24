@@ -1,0 +1,17 @@
+{
+  "name": "nia-cruz----latina-cutie-hugo-site",
+  "version": "1.0.0",
+  "description": "Site Hugo para Nia Cruz 🖤 Latina Cutie",
+  "main": "index.js",
+  "scripts": {
+    "build": "hugo --gc --minify",
+    "dev": "hugo server -D",
+    "start": "hugo server -D"
+  },
+  "dependencies": {
+    "hugo-bin": "^0.126.0"
+  },
+  "devDependencies": {},
+  "author": "Nia Cruz 🖤 Latina Cutie",
+  "license": "MIT"
+}
